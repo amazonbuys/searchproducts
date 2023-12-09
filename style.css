@@ -24,6 +24,7 @@ body {
     justify-content: center;
     align-items: center;
     margin-left: -25px;
+    padding-top: 20px;
 }
 
 .nav h3 {
@@ -41,7 +42,7 @@ body {
 
 .container {
     width: 375px;
-    height: 520px;
+    height: 540px;
     background: rgb(240, 239, 243);
     border-radius: 15px;
     -webkit-border-radius: 15px;
