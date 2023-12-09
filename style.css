@@ -65,6 +65,10 @@ body {
     align-items: center;
 }
 
+.container .form .search {
+    width: 10px;
+}
+
 .container form input {
     border: none;
     outline: none;
