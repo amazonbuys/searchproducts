@@ -65,10 +65,6 @@ body {
     align-items: center;
 }
 
-.container form .search {
-    width: 10px;
-}
-
 .container form input {
     border: none;
     outline: none;
@@ -80,8 +76,9 @@ body {
     background: rgb(240, 239, 243);
 }
 
-.container form .search {
+.container form img {
     padding-left: 10px;
+    width: 28px;
 }
 
 .product-list {
