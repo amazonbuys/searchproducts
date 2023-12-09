@@ -80,7 +80,7 @@ body {
     background: rgb(240, 239, 243);
 }
 
-.container form i {
+.container form .search {
     padding-left: 10px;
 }
 
